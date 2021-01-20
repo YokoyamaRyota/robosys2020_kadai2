@@ -36,5 +36,5 @@ Imu_pubは角速度と加速度、mag_pubは磁気センサの値が送られて
 センサの傾きによって値が変化すれば成功です。
 
 ## ライセンス
-[GNU General Public License v3.0](https://github.com/YokoyamaRyota/robosys2020_kadai1/blob/main/COPYING)
+[GNU General Public License v3.0](https://github.com/YokoyamaRyota/robosys2020_kadai2/blob/main/COPYING)
 
