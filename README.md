@@ -7,7 +7,7 @@ os ubuntu20.04
 1. raspberry pi3 model b+
 2. bmx055使用９軸センサーモジュール
 ## 動画
-動作中の動画です。
+通信中の動画です。
 　　　
    
 [![Audi R8](http://img.youtube.com/vi/zCPmWQxajbs/1.jpg)](https://www.youtube.com/watch?v=zCPmWQxajbs)
