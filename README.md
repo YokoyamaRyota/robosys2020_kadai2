@@ -10,7 +10,7 @@ os ubuntu20.04
 動作中の動画です。
 　　　
    
-[![Audi R8](http://img.youtube.com/vi/zCPmWQxajbs/1.jpg)](https://studio.youtube.com/video/zCPmWQxajbs/edit)
+[![Audi R8](http://img.youtube.com/vi/zCPmWQxajbs/1.jpg)](https://www.youtube.com/watch?v=zCPmWQxajbs)
 ## インストール方法
 次のコマンドを実行します。
 ```
